@@ -1,0 +1,22 @@
+body{
+    background: url(img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    color: rgb(240, 103, 228);
+}
+.border-pink{
+    border-color: #ef619f !important;
+}
+.active{
+    color: #fff;
+    background-color:#ef619f ;
+}
+.text-bg-pink{
+    background-color: #ef619f36;
+}
+.card-title{
+    color: #fff;
+    background-color: #ef619f65;
+}
